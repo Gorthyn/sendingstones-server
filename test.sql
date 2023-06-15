@@ -1,0 +1,2 @@
+DELETE
+FROM sendingstonesapi_invitation

@@ -6,3 +6,4 @@ from .comment import Comment
 from .tracker import Tracker
 from .dice_roll import DiceRoll
 from .gamer import Gamer
+from .invitation import Invitation

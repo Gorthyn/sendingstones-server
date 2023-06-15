@@ -18,13 +18,15 @@ from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
 from rest_framework import routers
-from sendingstonesapi.views import login_user, register_user, GameView, TopicView, PostView, CommentView
+from sendingstonesapi.views import login_user, register_user, GameView, TopicView, PostView, CommentView, UserView, InvitationView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'game', GameView, 'game')
 router.register(r'topic', TopicView, 'topic')
 router.register(r'post', PostView, 'post')
 router.register(r'comment', CommentView, 'comment')
+router.register(r'users', UserView, 'users')
+router.register(r'invitations', InvitationView, 'invitations')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
