@@ -1,0 +1,11 @@
+[
+    {
+        "model": "sendingstonesapi.game",
+        "pk": 1,
+        "fields": {
+            "name": "Dust in the Gears",
+            "game_master": 1,
+            "description": "The kingdom of Balmorhea was once a great and prospering nation, a combination of many smaller cultures brought together under one banner. One hundred and fifty years ago the Balmorhean kingdom clashed with the neighboring kingdom of Dulniston, from the land of Duln to the east. After the Balmorhean king mistakenly sent the majority of his troops into a well laid ambush, he was double crossed and assassinated by his cousin. The Duln Crown usurped the throne of Balmorhea and swiftly began to enact their plan of domination.\n\nThe first decree of the new Crown was the outlawing of heroes. This dramatically impacted a group called The Crimson Cloud, a band of heroes chosen by the royal line themselves who act as safeguards for the realm. They were systematically hunted down or forced into exile by The Society, warriors of unquestioning servitude to the new Crown. With the disappearance of the heroes, Balmorhea fell to chaos.\n\nThe newly crowned king of Balmorhea, Aethranon Dulniston, ordered his magical retinue to begin harvesting power from the magic weave running through the continent. The power was siphoned and stored in gemstones of enormous size, hidden deep within the confines of Castle Hightusk. There sat the new king, like a dragon on it's horde.\n\nThe royal family was slaughtered in the taking of the royal castle, all but two that is. The youngest child of the king, a seventh son of a seventh son. With fate guiding his mother's hand, he was sent beyond the walls in the care of the family bodyguard, a hero from another land called the Hokage. Together they made their escape, never to be seen again.\n\nNow, one hundred and fifty years since the Great War, a new generation of extraordinary people begin to receive prophetic dreams that push them to seek out a man named Omarnet Hume. Hume, the world's greatest treasure hunter, has a favor to ask our would-be heroes before he reaches the end of his days; reunite The Crimson Cloud and reinstate the true Balmorhean royal family. He may make real heroes out of you yet."
+        }
+    }
+]

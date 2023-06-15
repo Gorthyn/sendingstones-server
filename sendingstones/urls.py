@@ -16,7 +16,20 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.conf.urls import include
+from rest_framework import routers
+from sendingstonesapi.views import login_user, register_user, GameView, TopicView, PostView, CommentView
+
+router = routers.DefaultRouter(trailing_slash=False)
+router.register(r'game', GameView, 'game')
+router.register(r'topic', TopicView, 'topic')
+router.register(r'post', PostView, 'post')
+router.register(r'comment', CommentView, 'comment')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('register', register_user),
+    path('login', login_user),
+    path('', include(router.urls)),
+    
 ]

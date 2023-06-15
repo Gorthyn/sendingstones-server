@@ -1,0 +1,10 @@
+[
+    {
+        "model": "sendingstonesapi.gamer",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "Gamer extraordinaire and Master of stories"
+        }
+    }
+]

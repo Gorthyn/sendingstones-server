@@ -1,0 +1,86 @@
+[
+    {
+        "model": "sendingstonesapi.post",
+        "pk": 1,
+        "fields": {
+            "name": "The Surgebinder",
+            "content": "Abilities:\nPsionic\nSpearman\nMagical conduit capable of performing special spells called “Lashings”\nHighly athletic\nDoes not seem to age\n\nAesthetic:\nDark complexion\nAuburn hair\nGreen eyes\nFacial\nYoung\n\nPersonality:\nDistant\nParanoid\nSuspicious\nGuarded\n\nAccompanied by a Wind Elemental named Syl who is of a bright and curious disposition",
+            "gamer": 1,
+            "topic_id": 1,
+            "image_url": "https://imgur.com/a/mFmpYYD",
+            "created_on": "2023-01-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "sendingstonesapi.post",
+        "pk": 2,
+        "fields": {
+            "name": "Cervantes",
+            "content": "Abilities:\nBiophysical/biochemical reaction triggered at will allows teleportation\nAccomplished swordsman, fencer\nDoes not sleep\nAdmiral of a fleet of Privateers, owns a ship called the Golden Hind\nIncreased lifespan\n\nAesthetic:\nShort, greying hair\nBloodshot eyes\nMedium height and build\nFair complexion, windswept\nDresses below his station\n\nPersonality:\nLoud\nQuick-witted\nAddicted to sleepless potions\nHot tempered\nFierce",
+            "gamer": 1,
+            "topic_id": 1,
+            "image_url": "https://imgur.com/a/xsIJW1p",
+            "created_on": "2023-02-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "sendingstonesapi.post",
+        "pk": 3,
+        "fields": {
+            "name": "The Spiritfarer",
+            "content": "Abilities:\n- Antinecromancer\n- Charter/Rune Mage\n- Wields a bandolier of bells capable of controlling the dead\n- Fights undead using necromantic magic\n- Wild magic expert\n\nAesthetic:\n- Pale complexion\n- Black hair\n- Blue eyes\n- Middle-aged\n- Weathered\n\nPersonality:\n- Quiet\n- Calm\n- Brave\n- Tenacious\n- Serious\n\nAccompanied by a talking white cat named Mogget, who wears a collar bearing a small version of the bell Saraneth",
+            "gamer": 1,
+            "topic_id": 1,
+            "image_url": "https://imgur.com/a/eKua5tt",
+            "created_on": "2023-02-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "sendingstonesapi.post",
+        "pk": 4,
+        "fields": {
+            "name": "The Architect",
+            "content": "Abilities:\nHyper Intelligent\nLiving Tissue over a biomechanical endoskeleton\nEquipped with vocals capable of mimicking any speech patterns\nDoes not feel pain\nRedundant systems allow it to continue operating even after sustaining severe damage\n\nAesthetic:\nShort, dark hair\nPartial damage to face and body revealing endoskeleton underneath\nTall and muscular\nClean shaven and handsome on undamaged side of face\nEye with no living tissue covering it glows red\n\nPersonality:\nInquisitive\nScientific\nUnattached\nCalm\nWorkaholic",
+            "gamer": 1,
+            "topic_id": 1,
+            "image_url": "https://imgur.com/a/TPW0kzN",
+            "created_on": "2023-02-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "sendingstonesapi.post",
+        "pk": 5,
+        "fields": {
+            "name": "The Dark Death",
+            "content": "Abilities:\nTelekinesis\nSuper Strength\nMaster Swordsman\n\nHeadquarters:\nHightusk\n\nOrigin:\nUnknown",
+            "gamer": 1,
+            "topic_id": 2,
+            "image_url": "https://imgur.com/a/R3f8gGn",
+            "created_on": "2023-02-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "sendingstonesapi.post",
+        "pk": 6,
+        "fields": {
+            "name": "The Eater of Stars",
+            "content": "Abilities:\nNecromancer\nControl of his own magical domain\nStrong Melee Combatant\n\nHeadquarters:\nHoia-Baciu Forest\n\nOrigin:\nQuiet Rise. Lived there before the war. After the war had begun, he performed some kind of dark magic ritual involving a power stone to kill all inhabitants of the town as well as the surrounding forest. Making the forest his personal domain, he stayed locked in a battle for control with three iterations of the Spiritfarer mantle over more than a century.",
+            "gamer": 1,
+            "topic_id": 2,
+            "image_url": "https://imgur.com/a/WtW34bM",
+            "created_on": "2023-02-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "sendingstonesapi.post",
+        "pk": 7,
+        "fields": {
+            "name": "The One Thousand",
+            "content": "Abilities:\nSuper Speed\nSuper Strength\nShapeshifting\nResistance to most damage types\n\nHeadquarters:\nLost Hope's Post\n\nOrigin:\nUnknown",
+            "gamer": 1,
+            "topic_id": 2,
+            "image_url": "https://imgur.com/a/SDX17Hf",
+            "created_on": "2023-02-01T12:00:00Z"
+        }
+    }
+]

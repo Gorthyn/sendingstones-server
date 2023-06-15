@@ -1,0 +1,11 @@
+[
+    {
+        "model": "sendingstonesapi.playergame",
+        "pk": 1,
+        "fields": {
+            "gamer": 1,
+            "game": 1,
+            "role": "game_master"
+        }
+    }
+]

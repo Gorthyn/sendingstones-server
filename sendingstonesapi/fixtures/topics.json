@@ -1,0 +1,20 @@
+[
+    {
+        "model": "sendingstonesapi.topic",
+        "pk": 1,
+        "fields": {
+            "name": "The Crimson Cloud",
+            "description": "Once a great allegiance of powerful figures, the Crimson Cloud has been taken apart piece by piece over the years. Hopefully a few of these great warriors are still around. Can you find them and convince them to join your campaign?",
+            "game_id": 1
+        }
+    },
+    {
+        "model": "sendingstonesapi.topic",
+        "pk": 2,
+        "fields": {
+            "name": "The Society",
+            "description": "The lieutenants of King Aethrenon, the beings that make up the ranks of The Society are far from the heroes who represent the Crimson Cloud. These evil beings are responsible for the execution of the king's orders and the fall of the Crimson Cloud. Can you defeat them and bring light back to the kingdom of Balmorhea?",
+            "game_id": 1
+        }
+    }
+]
